@@ -13,8 +13,6 @@ enum TestEnum {
 interface TestInterface {
     void test();
     void test2();
-    void test3();
-    void test4();
 }
 
 class TestClass implements TestInterface {
