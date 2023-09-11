@@ -12,6 +12,7 @@ enum TestEnum {
 
 interface TestInterface {
     void test();
+    void test2();
 }
 
 class TestClass implements TestInterface {
