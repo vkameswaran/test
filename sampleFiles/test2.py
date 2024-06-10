@@ -16,8 +16,11 @@ class Test:
 t = Test()
 
 def blah():
-    print("blah")
-    print(t.add(1, 2))
-    print(t.subtract(1, 2))
+    try:
+        print("blah")
+        print(t.add(1, 2))
+        print(t.subtract(1, 2))
+    except:
+        print("sad")
 
 blah()

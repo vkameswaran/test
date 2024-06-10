@@ -5,6 +5,7 @@ const Parser = require('tree-sitter');
 const JavaScript = require('tree-sitter-javascript');
 const Python = require('tree-sitter-python');
 
+// this will only work with Python
 const parser = new Parser();
 parser.setLanguage(Python);
 
@@ -15,6 +16,7 @@ const separable_block_types = [
     "class_declaration", "method_definition", "function_definition", "class_definition"
 ]
 
+// does this cover all edge cases?
 function summarize_code_chunk(node, nodeProcessedText) {
     // TODO: Make this a GPT call
     return `\n(This is a summary of ${node.startPosition.row + 1}:${node.endPosition.row + 1}: ${nodeProcessedText})`;
