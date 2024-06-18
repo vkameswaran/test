@@ -49,3 +49,4 @@ let () =
   List.iter (Printf.printf "%d\n") doubled_numbers;
   Printf.printf "Quad of 3: %d\n" (quad 3);
   Printf.printf "Sum of squares of 3 and 4: %d\n" (MathUtils.sum_of_squares 3 4)
+  
