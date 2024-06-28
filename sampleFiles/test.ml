@@ -34,6 +34,9 @@ let square x =
 
 let quad = apply_twice square
 
+let rec y f x =
+  f (y f) x (* Y combinator *)
+
 (* Modules *)
 module MathUtils = struct
   let sum_of_squares x y =
