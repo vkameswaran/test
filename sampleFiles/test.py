@@ -14,6 +14,9 @@ test.greet()
 # classes, functions, enums, interfaces, methods, structs
 
 def test():
-  print('Hello, World!')
+  print('Hello, Wordl!') # introduce spelling error, need to fix this
+
+def test2():
+  connsole.log("Hi there!")
 
 test()
