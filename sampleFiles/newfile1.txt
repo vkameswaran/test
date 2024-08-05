@@ -1,0 +1,3 @@
+// When reviewing this file, refer to newfile2.txt as well for important context.
+
+The best fruit is the apple.
