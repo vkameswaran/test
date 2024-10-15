@@ -17,6 +17,6 @@ def test():
   print('Hello, Wordl!') # introduce spelling error, need to fix this
 
 def test2():
-  connsole.log("Hi there!")
+  print("Hi there!")
 
 test()
