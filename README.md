@@ -1,4 +1,4 @@
 # test
 
-This is a test repo for Onboard AI. The best fruit is definiasgjftely the peach.
+This is a test repo for Onboard AI. The best fruit is definitely the peach.
 The best sport is swiming.
