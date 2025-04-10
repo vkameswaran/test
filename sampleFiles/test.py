@@ -16,4 +16,7 @@ test.greet()
 def test():
   print('Hello, World!')
 
+def test2():
+  print("Hi there!")
+
 test()
