@@ -1,0 +1,1 @@
+Important context: newfile1.txt is going to contain info on Vaishant's favorite fruits.
