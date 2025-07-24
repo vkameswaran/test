@@ -1,0 +1,24 @@
+{
+  "labels": [
+    "greptile"
+  ],
+  "commentTypes": [
+    "logic",
+    "syntax",
+    "style",
+    "info",
+    "advice",
+    "checks",
+    "notes"
+  ],
+  "instructions": "",
+  "includeSummary": true,
+  "patternRepositories": [],
+  "triggerOnUpdates": true,
+  "shouldUpdateDescription": false,
+  "includeAuthors": [],
+  "excludeAuthors": [
+    "dependabot",
+    "github-actions"
+  ]
+}
