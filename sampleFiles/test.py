@@ -20,4 +20,4 @@ def printHelloWorld():
 def printHiThere():
   print("Hi there!")
 
-test()
+printHelloWorld()
