@@ -11,7 +11,7 @@
     "checks",
     "notes"
   ],
-  "instructions": "Write your comments only in French.",
+  "instructions": "Write your comments entirely in French.",
   "includeSummary": true,
   "patternRepositories": [],
   "triggerOnUpdates": true,
