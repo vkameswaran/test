@@ -12,8 +12,12 @@ test = Testing()
 test.greet()
 
 # classes, functions, enums, interfaces, methods, structs
+# this is an extra line
 
-def test():
+def printHelloWorld():
   print('Hello, World!')
 
-test()
+def printHiThere():
+  print("Hi there!")
+
+printHelloWorld()
