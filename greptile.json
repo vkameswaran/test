@@ -2,15 +2,6 @@
   "labels": [
     "greptile"
   ],
-  "commentTypes": [
-    "logic",
-    "syntax",
-    "style",
-    "info",
-    "advice",
-    "checks",
-    "notes"
-  ],
   "instructions": "Write your comments entirely in French.",
   "includeSummary": true,
   "patternRepositories": [],
