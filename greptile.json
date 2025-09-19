@@ -7,7 +7,6 @@
   "includeSummary": true,
   "patternRepositories": [],
   "triggerOnUpdates": true,
-  "shouldUpdateDescription": false,
   "includeAuthors": [],
   "excludeAuthors": [
     "dependabot",
