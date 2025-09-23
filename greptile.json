@@ -1,6 +1,6 @@
 {
-  "labels": [
-    "greptile"
+  "disabledLabels": [
+    "no-greptile"
   ],
   "comment": "I am AI 👋🏽",
   "instructions": "Write your comments entirely in French.",
