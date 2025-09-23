@@ -4,7 +4,7 @@
   ],
   "comment": "I am AI 👋🏽",
   "commentTypes": [],
-  "shouldUpdateDescription" false,
+  "shouldUpdateDescription": false,
   "instructions": "Write your comments entirely in French.",
   "includeSummary": true,
   "patternRepositories": [],
