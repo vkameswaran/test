@@ -3,6 +3,8 @@
     "no-greptile"
   ],
   "comment": "I am AI 👋🏽",
+  "commentTypes": [],
+  "shouldUpdateDescription" false,
   "instructions": "Write your comments entirely in French.",
   "includeSummary": true,
   "patternRepositories": [],
