@@ -1,15 +1,7 @@
 {
-  "labels": [
-    "greptile"
-  ],
-  "instructions": "Write your comments entirely in French.",
-  "includeSummary": true,
-  "patternRepositories": [],
-  "triggerOnUpdates": true,
-  "shouldUpdateDescription": false,
   "includeAuthors": [],
   "excludeAuthors": [
-    "dependabot",
+    "vkameswaran",
     "github-actions"
   ]
 }
