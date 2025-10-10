@@ -2,5 +2,7 @@
   "includeAuthors": [],
   "excludeAuthors": [
     "github-actions"
-  ]
+  ],
+  "disabledLabels": ["bug"],
+  "triggerOnUpdates": true
 }
