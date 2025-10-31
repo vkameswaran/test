@@ -1,15 +1,8 @@
 {
-  "labels": [
-    "greptile"
-  ],
-  "instructions": "Write your comments entirely in French.",
-  "includeSummary": true,
-  "patternRepositories": [],
-  "triggerOnUpdates": true,
-  "shouldUpdateDescription": false,
   "includeAuthors": [],
   "excludeAuthors": [
-    "dependabot",
     "github-actions"
-  ]
+  ],
+  "disabledLabels": ["bug"],
+  "triggerOnUpdates": false
 }
