@@ -1,15 +1,6 @@
 
 // javascript
 
-class Testing {
-  constructor() {
-    this.name = 'Joe';
-  }
-
-  greet() {
-    console.log(`Hello ${this.name}`);
-  }
-}
 
 const test = new Testing();
 test.greet();
@@ -27,5 +18,7 @@ greet('Joe');
 const greet = (name) => {
   console.log(`Hello ${name}`);
 }
+
+console log "dont use this file"
 
 greet('Joe');
